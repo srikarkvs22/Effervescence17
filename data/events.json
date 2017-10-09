@@ -536,9 +536,9 @@
 	{
 		"id": 123,
 		"name": "Dota 2",
-		"description": "",
-		"location": "",
-		"timestamp": 1507905000,
+		"description": "Best of three  5 vs 5 games - captians mode",
+		"location": "CC3",
+		"timestamp": 1507885200,
 		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/dota.png",
 		"facebookEventLink": "https://www.facebook.com/events/2028223137463926/",
 		"additionalInfo": [],
